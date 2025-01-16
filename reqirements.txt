@@ -1,5 +1,6 @@
 streamlit
-firebase-admin
 opencv-python-headless
 mediapipe
 pandas
+numpy
+firebase-admin
